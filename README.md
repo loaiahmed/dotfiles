@@ -4,8 +4,9 @@
 Personal environment configurations managed with **GNU Stow**. 
 This setup is focused on a clean, purple/dark aesthetic with a focus on efficiency.
 
-| :---: | :---: |
-| ![Desktop](./screenshots/2026-03-16-19:08:57-screenshot.png) | ![Terminal](./screenshots/2026-03-16-19:01:47-screenshot.png) |
+![Desktop](./screenshots/2026-03-16-19:08:57-screenshot.png)
+![Terminal](./screenshots/2026-03-16-19:01:47-screenshot.png)
+![Thunar](./screenshots/2026-03-16-19:11:12-screenshot.png)
 
 ---
 
