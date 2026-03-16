@@ -1,0 +1,6 @@
+# list of currently installed LSPs using yay:
+#   * bash-language-server
+#   * python-lsp-server (pylsp)
+#   * vscode-html-languageserver
+#   * vscode-css-languageserver
+#   * typescript-language-server

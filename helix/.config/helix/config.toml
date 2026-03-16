@@ -1,0 +1,24 @@
+theme='mytheme'
+
+[editor]
+line-number = "relative"
+mouse=true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
+[keys.normal]
+ret = "goto_word"
+tab = ":buffer-next"
+S-tab = ":buffer-previous"
+# y = ":clipboard-yank-join" # Yank to system clipboard (joins selections)
+# Y = ":clipboard-yank"      # Yank to system clipboard (single selection)
+# p = ":clipboard-paste-after" # Paste from system clipboard
+# P = ":clipboard-paste-before" # Paste from system clipboard
+# d = [":clipboard-yank-join", "delete_selection"] # Delete goes to clipboard too
+
