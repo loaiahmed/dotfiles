@@ -1,0 +1,4 @@
+
+# Ignore Spicetify bloat
+spicetify/.config/spicetify/Backup/
+spicetify/.config/spicetify/extracted/

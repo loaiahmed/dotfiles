@@ -1,2 +1,2 @@
 --dir=/mnt/data/dotfiles
---target=/home/yourusername
+--target=~/
